@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogSwitch</string>
+    <string name="btn_enable_log_service">Enable log service</string>
+    <string name="btn_disable_log_service">Disable log service</string>
+    <string name="title">Disabling logcat service (only useful to developers), your device will gain a potential boost of battery life and performance</string>
+    <string name="title2">ROOT permissions required</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogSwitch</string>
+    <string name="btn_enable_log_service">Activar servicio de log</string>
+    <string name="btn_disable_log_service">Desactivar servicio de log</string>
+    <string name="title">Al desactivar el servicio de logcat (sólo es útil para los desarrolladores), obtendrá un potencial aumento de la duración de la batería y del rendimiento</string>
+    <string name="title2">Se requieren permisos de ROOT para usar esta funcionalidad</string>
+</resources>
